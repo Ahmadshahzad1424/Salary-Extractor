@@ -1,0 +1,13 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+
+# Official documents and PDFs (excluded from repository)
+*.pdf
+"AI Engineer Intern - JD.pdf"

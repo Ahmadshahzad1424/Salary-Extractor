@@ -1,0 +1,35 @@
+================================================================================
+                         SALARY & TAX DEDUCTION CERTIFICATE
+================================================================================
+Employer Details:
+Company Name: ABC Technologies (Pvt.) Ltd.
+NTN: 1234567-8
+Address: Sector F-7/2, Blue Area, Islamabad, Pakistan
+
+Date of Issue: 15th July 2026
+Tax Year: 2026
+
+TO WHOM IT MAY CONCERN
+
+This is to certify that Mr. Ahmed Khan, holding CNIC # 35202-1234567-1, is employed
+with ABC Technologies (Pvt.) Ltd. as a Principal Software Architect.
+
+During the Tax Year 2026 (July 1, 2025 to June 30, 2026), the total remuneration 
+and tax deducted under Section 149 of the Income Tax Ordinance, 2001 were as follows:
+
+--------------------------------------------------------------------------------
+1. Basic Salary & Allowances:                        PKR 1,500,000
+--------------------------------------------------------------------------------
+Gross Salary:                                       PKR 1,500,000
+Total Income Tax Deducted / Deposited:              PKR   125,000
+--------------------------------------------------------------------------------
+Net Salary Disbursed:                               PKR 1,375,000
+--------------------------------------------------------------------------------
+
+This certificate is issued upon the request of the employee for tax compliance
+and filing purposes with the Federal Board of Revenue (FBR).
+
+Authorized Signatory:
+Muhammad Asif, Head of Finance
+ABC Technologies (Pvt.) Ltd.
+================================================================================
